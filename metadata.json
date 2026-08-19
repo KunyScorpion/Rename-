@@ -1,0 +1,6 @@
+{
+  "name": "ファイル名配置換えアプリ (Filename Part Arranger)",
+  "description": "ファイル名の一部をドラッグ＆ドロップで並べ替え、一括置換用の正規表現を生成するツールです。ファイル名の構造を視覚的に再構成し、リネーム作業を効率化します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
